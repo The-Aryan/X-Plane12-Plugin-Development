@@ -2,7 +2,7 @@
 This repository contains plugins developed for X-Plane12.
 
 ### PI_ParameterDisplay
-This plugin displays following parameters:
+This plugin displays following parameters in a dedicated display box outside of cockpit displays:
 - Airspeed
 - Altitude
 - Vertical Speed
