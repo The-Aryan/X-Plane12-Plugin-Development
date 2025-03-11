@@ -1,5 +1,5 @@
 # X-Plane12-Plugin-Development
-This repository contains plugin developed for X-Plane12
+This repository contains plugins developed for X-Plane12.
 
 ### PI_ParameterDisplay
 This plugin displays following parameters:
